@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432729478005",
+    "project_id": "baber-app-1659e",
+    "storage_bucket": "baber-app-1659e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432729478005:android:19bbb4a5e9d93cd4abf93c",
+        "android_client_info": {
+          "package_name": "com.example.baber_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzgr5BMP23VLf1vYrlqdBIE9mM0y8b5fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
